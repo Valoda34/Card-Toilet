@@ -1,0 +1,1927 @@
+{
+    "Common": [
+        {
+            "name": "Cameraman Detective",
+            "photo": "https://i.postimg.cc/ZK8c5LCH/IMG-20250514-100208-013.jpg",
+            "attack": 1850,
+            "health": 2650,
+            "value": 2000,
+            "desc": "🔵 Cameraman Detective\n\n⚪ Rarity: Common\n🗡️ Attack: 2000\n❤️ Health: 3000\n\n💠 Value: 1500 S.P"
+        },
+        {
+            "name": "Cameraman",
+            "photo": "https://i.postimg.cc/BvYVcy7M/New-Project-12-B016-B41.png",
+            "attack": 1700,
+            "health": 2750,
+            "value": 1000,
+            "desc": "🔵 Cameraman\n\n⚪ Rarity: Common\n🗡️ Attack: 2000\n❤️ Health: 3000\n\n💠 Value: 1000 S.P"
+        },
+        {
+            "name": "Scientist Cameraman",
+            "photo": "https://i.postimg.cc/VkyV7FhP/IMG-20250514-102355-990.jpg",
+            "attack": 1400,
+            "health": 2650,
+            "value": 2000,
+            "desc": "🔵 Scientist Cameraman\n\n⚪ Rarity: Common\n🗡️ Attack: 2000\n❤️ Health: 3000\n\n💠 Value: 1500 S.P"
+        },
+        {
+            "name": "Scientist Speakerman",
+            "photo": "https://i.postimg.cc/qqPj5kjx/IMG-20250514-102103-699.jpg",
+            "attack": 1400,
+            "health": 2200,
+            "value": 2000,
+            "desc": "🔵 Scientist Speakerman\n\n⚪ Rarity: Common\n🗡️ Attack: 1000\n❤️ Health: 2000\n\n💠 Value: 1100 S.P"
+        },
+        {
+            "name": "Speakerman",
+            "photo": "https://i.postimg.cc/3WMQFQGP/IMG-20250514-210949-289.jpg",
+            "attack": 1750,
+            "health": 2750,
+            "value": 1200,
+            "desc": "🔵 Speakerman\n\n⚪ Rarity: Common\n🗡️ Attack: 1000\n❤️ Health: 2000\n\n💠 Value: 1000 S.P"
+        },
+        {
+            "name": "First Skibidi Toilet",
+            "photo": "https://i.postimg.cc/hPxXWS2Q/IMG-20250514-211010-059.jpg",
+            "attack": 400,
+            "health": 2350,
+            "value": 2000,
+            "desc": "🔵 First Skibidi Toilet\n\n⚪ Rarity: Common\n🗡️ Attack: 500\n❤️ Health: 1000\n\n💠 Value: 500 S.P"
+        },
+        {
+            "name": "Dj Toilet",
+            "photo": "https://i.postimg.cc/28wV8HfC/IMG-20250514-211453-868.jpg",
+            "attack": 1500,
+            "health": 2750,
+            "value": 1000,
+            "desc": "🔵 Dj Toilet\n\n⚪ Rarity: Common\n🗡️ Attack: 1000\n❤️ Health: 2000\n\n💠 Value: 1100 S.P"
+        },
+        {
+            "name": "Medium Toilet",
+            "photo": "https://i.postimg.cc/25q6GrL5/IMG-20250514-211503-835.jpg",
+            "attack": 1950,
+            "health": 2850,
+            "value": 1300,
+            "desc": "🔵 Medium Toilet\n\n⚪ Rarity: Common\n🗡️ Attack: 2000\n❤️ Health: 3000\n\n💠 Value: 1100 S.P"
+        },
+        {
+            "name": "Normal Toilet",
+            "photo": "https://i.postimg.cc/sgzfS5sw/IMG-20250514-211853-213.jpg",
+            "attack": 1600,
+            "health": 2700,
+            "value": 1000,
+            "desc": "🔵 Normal Toilet\n\n⚪ Rarity: Common\n🗡️ Attack: 1000\n❤️ Health: 2000\n\n💠 Value: 1000 S.P"
+        },
+        {
+            "name": "Egg Toilet",
+            "photo": "https://i.postimg.cc/LXJmRT36/IMG-20250514-211900-923.jpg",
+            "attack": 100,
+            "health": 900,
+            "value": 2000,
+            "desc": "🔵 Egg Toilet\n\n⚪ Rarity: Common\n🗡️ Attack: 500\n❤️ Health: 1000\n\n💠 Value: 500 S.P"
+        },
+        {
+            "name": "Large Cameraman",
+            "photo": "https://i.postimg.cc/pX7myWqC/New-Project-12-962533-E.png",
+            "attack": 2000,
+            "health": 3000,
+            "value": 1500,
+            "desc": "🔵 Common Card 11\n\n⚪ Rarity: Common\n🗡️ Attack: 1800\n❤️ Health: 2800\n\n💠 Value: 1500 S.P"
+        },
+        {
+            "name": "Camera Enginieer",
+            "photo": "https://i.postimg.cc/1XVfrbzw/IMG-20250917-213643-837.jpg",
+            "attack": 1000,
+            "health": 2500,
+            "value": 1400,
+            "desc": "🔵 Common Card 12\n\n⚪ Rarity: Common\n🗡️ Attack: 1900\n❤️ Health: 2900\n\n💠 Value: 1600 S.P"
+        },
+        {
+            "name": "Simp Cameraman",
+            "photo": "https://i.postimg.cc/MK4gLNpX/IMG-20250917-213927-058.jpg",
+            "attack": 1775,
+            "health": 2750,
+            "value": 1100,
+            "desc": "🔵 Common Card 13\n\n⚪ Rarity: Common\n🗡️ Attack: 2000\n❤️ Health: 3000\n\n💠 Value: 1700 S.P"
+        },
+        {
+            "name": "Speaker Rider Toilet",
+            "photo": "https://i.postimg.cc/xTS6bQ8v/New-Project-12-Copy-1-A58785.png",
+            "attack": 1900,
+            "health": 2800,
+            "value": 1250,
+            "desc": "🔵 Common Card 14\n\n⚪ Rarity: Common\n🗡️ Attack: 2100\n❤️ Health: 3100\n\n💠 Value: 1800 S.P"
+        },
+        {
+            "name": "Brown Speakerman",
+            "photo": "https://i.postimg.cc/jqh7ZYvQ/New-Project-12-Copy-45-ECB02.png",
+            "attack": 1750,
+            "health": 2800,
+            "value": 1200,
+            "desc": "🔵 Common Card 15\n\n⚪ Rarity: Common\n🗡️ Attack: 2200\n❤️ Health: 3200\n\n💠 Value: 1900 S.P"
+        },
+        {
+            "name": "Parasite Toilet",
+            "photo": "https://i.postimg.cc/RVFNd6W4/New-Project-12-Copy-Copy-ACF705-E.png",
+            "attack": 500,
+            "health": 1000,
+            "value": 1300,
+            "desc": "🔵 Common Card 16\n\n⚪ Rarity: Common\n🗡️ Attack: 2300\n❤️ Health: 3300\n\n💠 Value: 2000 S.P"
+        },
+        {
+            "name": "Ghost Rider Toilet",
+            "photo": "https://i.postimg.cc/sDmNmkBP/New-Project-12-Copy-Copy-FDA0441.png",
+            "attack": 100,
+            "health": 2500,
+            "value": 2000,
+            "desc": "🔵 Common Card 17\n\n⚪ Rarity: Common\n🗡️ Attack: 2400\n❤️ Health: 3400\n\n💠 Value: 2100 S.P"
+        },
+        {
+            "name": "Hexa-Claw Toilet",
+            "photo": "https://i.postimg.cc/BnhGB0hz/New-Project-12-Copy-Copy-91-A39-C3.png",
+            "attack": 750,
+            "health": 2000,
+            "value": 750,
+            "desc": "🔵 Common Card 18\n\n⚪ Rarity: Common\n🗡️ Attack: 2500\n❤️ Health: 3500\n\n💠 Value: 2200 S.P"
+        },
+        {
+            "name": "Camo Toilet",
+            "photo": "https://i.postimg.cc/T31sGW9k/New-Project-12-Copy-Copy-C4-F360-C.png",
+            "attack": 2000,
+            "health": 3000,
+            "value": 1300,
+            "desc": "🔵 Common Card 19\n\n⚪ Rarity: Common\n🗡️ Attack: 2600\n❤️ Health: 3600\n\n💠 Value: 2300 S.P"
+        },
+        {
+            "name": "Large Police Toilet",
+            "photo": "https://i.postimg.cc/7hPVVptB/New-Project-12-Copy-Copy-A0082-AA.png",
+            "attack": 1800,
+            "health": 3000,
+            "value": 1250,
+            "desc": "🔵 Common Card 20\n\n⚪ Rarity: Common\n🗡️ Attack: 2700\n❤️ Health: 3700\n\n💠 Value: 2400 S.P"
+        },
+        {
+            "name": "Lucky Cameraman",
+            "photo": "https://i.postimg.cc/y8htwpbs/New-Project-12-600226-A.png",
+            "attack": 1700,
+            "health": 2750,
+            "value": 1000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Cook Chef Cameraman",
+            "photo": "https://i.postimg.cc/7ZsHFLRp/New-Project-12-377-B66-C.png",
+            "attack": 1500,
+            "health": 2650,
+            "value": 900,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Large Scientist Cameraman",
+            "photo": "https://i.postimg.cc/JnwL8H5x/New-Project-12-5-CC2-DD6.png",
+            "attack": 1800,
+            "health": 2700,
+            "value": 2000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Medic Cameraman",
+            "photo": "https://i.postimg.cc/CMNWPQ9p/New-Project-12-56-BB1-D1.png",
+            "attack": 1050,
+            "health": 2500,
+            "value": 1400,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Cat Maid Cameraman",
+            "photo": "https://i.postimg.cc/4dXWpJfZ/New-Project-12-AEADD3-E.png",
+            "attack": 1450,
+            "health": 2600,
+            "value": 2000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Camera Drone",
+            "photo": "https://i.postimg.cc/RhNQTh22/New-Project-12-670-F410.png",
+            "attack": 900,
+            "health": 1000,
+            "value": 650,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Camera Toilet",
+            "photo": "https://i.postimg.cc/QtPWhbyG/New-Project-12-691-F205.png",
+            "attack": 100,
+            "health": 1000,
+            "value": 500,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "First Camerawoman",
+            "photo": "https://i.postimg.cc/59Y7c9PL/New-Project-12-E8251-A0.png",
+            "attack": 1450,
+            "health": 2000,
+            "value": 450,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Camera Rover",
+            "photo": "https://i.postimg.cc/7P03M5tG/New-Project-12-1-C0858-D.png",
+            "attack": 100,
+            "health": 1000,
+            "value": 750,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Bath Skibidi",
+            "photo": "https://i.postimg.cc/yxvH9Vwc/New-Project-12-Copy-Copy-E9-D0356.png",
+            "attack": 1450,
+            "health": 2850,
+            "value": 900,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Jesse Toilet",
+            "photo": "https://i.postimg.cc/sx2Lk5NZ/New-Project-12-Copy-Copy-73735-B2.png",
+            "attack": 1550,
+            "health": 2650,
+            "value": 2000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Brown Toilet",
+            "photo": "https://i.postimg.cc/zfj0qVW0/New-Project-12-Copy-Copy-5562152.png",
+            "attack": 1600,
+            "health": 2700,
+            "value": 1000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Police Toilet",
+            "photo": "https://i.postimg.cc/g2KT2SbY/New-Project-12-Copy-Copy-2-DB3-D4-B.png",
+            "attack": 1625,
+            "health": 2700,
+            "value": 1000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Medium Gray Toilet",
+            "photo": "https://i.postimg.cc/PrW6S3JH/New-Project-12-Copy-Copy-ADAD0-A2.png",
+            "attack": 1950,
+            "health": 2850,
+            "value": 1000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Claw Parasite Toilet",
+            "photo": "https://i.postimg.cc/zGMRK5rS/New-Project-12-Copy-Copy-5-EF0361.png",
+            "attack": 1000,
+            "health": 2000,
+            "value": 1500,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Scientist Claw Toilet",
+            "photo": "https://i.postimg.cc/PxMx3ngq/New-Project-12-Copy-Copy-99-D90-F6.png",
+            "attack": 1450,
+            "health": 2750,
+            "value": 2000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Hat Toilet",
+            "photo": "https://i.postimg.cc/mDZRrz5d/New-Project-12-Copy-Copy-0620-DE5.png",
+            "attack": 1600,
+            "health": 2700,
+            "value": 1000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Urinal Toilet",
+            "photo": "https://i.postimg.cc/pd23QNJF/New-Project-12-Copy-Copy-655-E8-B3.png",
+            "attack": 1000,
+            "health": 2300,
+            "value": 800,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Walter Toilet",
+            "photo": "https://i.postimg.cc/XJTbkHJN/New-Project-12-Copy-Copy-5-F313-C5.png",
+            "attack": 1650,
+            "health": 2650,
+            "value": 2000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Antony Skibidi Toilet",
+            "photo": "https://i.postimg.cc/HxMKdpYk/New-Project-12-Copy-Copy-038-E7-D9.png",
+            "attack": 1750,
+            "health": 2750,
+            "value": 2000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Balaclava Acid Toilet",
+            "photo": "https://i.postimg.cc/rmycS4n9/New-Project-12-Copy-Copy-E5164-BF.png",
+            "attack": 2000,
+            "health": 2500,
+            "value": 1500,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Helicopter Toilet",
+            "photo": "https://i.postimg.cc/59C18fn2/New-Project-12-Copy-Copy-20-F3-A68.png",
+            "attack": 500,
+            "health": 2550,
+            "value": 1100,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Mesenger Mutant",
+            "photo": "https://i.postimg.cc/JhkKPYgC/New-Project-12-Copy-Copy-51-EBE46.png",
+            "attack": 1675,
+            "health": 2200,
+            "value": 2000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Buzzsaw Car Toilet",
+            "photo": "https://i.postimg.cc/0NsJ1tjQ/New-Project-12-Copy-Copy-9-DA008-E.png",
+            "attack": 1325,
+            "health": 2300,
+            "value": 1000,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Deafened Toilet",
+            "photo": "https://i.postimg.cc/L4YffgcF/New-Project-12-Copy-Copy-59639-B6.png",
+            "attack": 1500,
+            "health": 3000,
+            "value": 1200,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Hydra Toilet",
+            "photo": "https://i.postimg.cc/cJv1jwMZ/New-Project-12-Copy-Copy-1-A09185.png",
+            "attack": 1800,
+            "health": 2800,
+            "value": 1200,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Jeatpack Toilet",
+            "photo": "https://i.postimg.cc/C5XW6rYk/New-Project-12-Copy-2-Copy-A717674.png",
+            "attack": 1600,
+            "health": 2850,
+            "value": 1400,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Small Dual Blade Toilet",
+            "photo": "https://i.postimg.cc/kgXpvdWN/New-Project-12-Copy-2-Copy-EDEAE30.png",
+            "attack": 1700,
+            "health": 2850,
+            "value": 1400,
+            "desc": "⚪ Пустая ячейка"
+        },
+        {
+            "name": "Skull Toilets",
+            "photo": "https://i.postimg.cc/50cgTcFW/New-Project-12-Copy-2-Copy-B446-EA5.png",
+            "attack": 1200,
+            "health": 1000,
+            "value": 500,
+            "desc": "⚪ Пустая ячейка"
+        }
+    ],
+    "Rare": [
+        {
+            "name": "Upgrade Duplex Airstrike Toilet",
+            "photo": "https://i.postimg.cc/tJMHZHS0/IMG-20250513-131809-994.jpg",
+            "attack": 3200,
+            "health": 5000,
+            "value": 3000,
+            "desc": "✨ Upgrade Duplex Airstrike Toilet\n\n🔵 Rarity: Rare\n🗡️ Attack: 4000\n❤️ Health: 6000\n\n💠 Value: 4400 S.P"
+        },
+        {
+            "name": "Tv man",
+            "photo": "https://i.postimg.cc/9FD23r0c/IMG-20250514-111040-038.jpg",
+            "attack": 3200,
+            "health": 5000,
+            "value": 3850,
+            "desc": "✨ Tv man\n\n🔵 Rarity: Rare\n🗡️ Attack: 4000\n❤️ Health: 4000\n\n💠 Value: 3000 S.P"
+        },
+        {
+            "name": "Plungerman",
+            "photo": "https://i.postimg.cc/tTrj2HCJ/New-Project-12-4800920.png",
+            "attack": 3200,
+            "health": 4600,
+            "value": 4000,
+            "desc": "✨ Camo Toilet\n\n🔵 Rarity: Rare\n🗡️ Attack: 3000\n❤️ Health: 4700\n\n💠 Value: 3000 S.P"
+        },
+        {
+            "name": "Astro Trooper",
+            "photo": "https://i.postimg.cc/CLcYZXrL/IMG-20250514-212558-547.jpg",
+            "attack": 4000,
+            "health": 6000,
+            "value": 4000,
+            "desc": "✨ Astro Toop\n\n🔵 Rarity: Rare\n🗡️ Attack: 4000\n❤️ Health: 6000\n\n💠 Value: 4500 S.P"
+        },
+        {
+            "name": "Speaker Helicopter",
+            "photo": "https://i.postimg.cc/rsPkHtrR/IMG-20250514-213107-233.jpg",
+            "attack": 3650,
+            "health": 6000,
+            "value": 4000,
+            "desc": "✨ Speaker Helicopter\n\n🔵 Rarity: Rare\n🗡️ Attack: 3700\n❤️ Health: 5000\n\n💠 Value: 3300 S.P"
+        },
+        {
+            "name": "Large Speakerman",
+            "photo": "https://i.postimg.cc/x1H2s8Tq/IMG-20250514-213137-531.jpg",
+            "attack": 3450,
+            "health": 5500,
+            "value": 3500,
+            "desc": "✨ Large Speakerman\n\n🔵 Rarity: Rare\n🗡️ Attack: 3300\n❤️ Health: 4300\n\n💠 Value: 3000 S.P"
+        },
+        {
+            "name": "Scientist Tv man",
+            "photo": "https://i.postimg.cc/J0DrMqm5/IMG-20250514-213554-961.jpg",
+            "attack": 3200,
+            "health": 4500,
+            "value": 4000,
+            "desc": "✨ Scientist Tvman\n\n🔵 Rarity: Rare\n🗡️ Attack: 3500\n❤️ Health: 3000\n\n💠 Value: 4100 S.P"
+        },
+        {
+            "name": "Cameraman 2.0",
+            "photo": "https://i.postimg.cc/HnqpxykD/IMG-20250514-213646-620.jpg",
+            "attack": 3700,
+            "health": 5000,
+            "value": 3000,
+            "desc": "✨ Cameraman 2.0\n\n🔵 Rarity: Rare\n🗡️ Attack: 3750\n❤️ Health: 5100\n\n💠 Value: 3600 S.P"
+        },
+        {
+            "name": "Upgrade Police Toilet",
+            "photo": "https://i.postimg.cc/vZBsshzg/IMG-20250514-214059-649.jpg",
+            "attack": 3650,
+            "health": 4500,
+            "value": 3000,
+            "desc": "✨ Upgrade Police Toilet\n\n🔵 Rarity: Rare\n🗡️ Attack: 3900\n❤️ Health: 5050\n\n💠 Value: 3550 S.P"
+        },
+        {
+            "name": "Chef Scientist Cameraman",
+            "photo": "https://i.postimg.cc/wTYp2F9h/New-Project-12-FBDAD3-D.png",
+            "attack": 2100,
+            "health": 3100,
+            "value": 4000,
+            "desc": "✨ Rare Card 10\n\n🔵 Rarity: Rare\n🗡️ Attack: 3800\n❤️ Health: 5200\n\n💠 Value: 3200 S.P"
+        },
+        {
+            "name": "Camerawoman",
+            "photo": "https://i.postimg.cc/T30v8YCW/New-Project-3613-A88.png",
+            "attack": 3400,
+            "health": 4700,
+            "value": 3700,
+            "desc": "✨ Rare Card 11\n\n🔵 Rarity: Rare\n🗡️ Attack: 3900\n❤️ Health: 5300\n\n💠 Value: 3300 S.P"
+        },
+        {
+            "name": "Speakerman 2.0",
+            "photo": "https://i.postimg.cc/HnRjvMsr/New-Project-12-Copy-7-F5-CA6-F.png",
+            "attack": 3500,
+            "health": 5000,
+            "value": 3000,
+            "desc": "✨ Rare Card 12\n\n🔵 Rarity: Rare\n🗡️ Attack: 4000\n❤️ Health: 5400\n\n💠 Value: 3400 S.P"
+        },
+        {
+            "name": "Speaker Strider",
+            "photo": "https://i.postimg.cc/C16Kd88c/New-Project-12-Copy-0949-AF8.png",
+            "attack": 3650,
+            "health": 5500,
+            "value": 3600,
+            "desc": "✨ Rare Card 13\n\n🔵 Rarity: Rare\n🗡️ Attack: 4100\n❤️ Health: 5500\n\n💠 Value: 3500 S.P"
+        },
+        {
+            "name": "Tv woman",
+            "photo": "https://i.postimg.cc/kXjdCCxy/New-Project-12-Copy-2-0-A92069.png",
+            "attack": 3300,
+            "health": 4200,
+            "value": 3900,
+            "desc": "✨ Rare Card 14\n\n🔵 Rarity: Rare\n🗡️ Attack: 4200\n❤️ Health: 5600\n\n💠 Value: 3600 S.P"
+        },
+        {
+            "name": "Female Mutant",
+            "photo": "https://i.postimg.cc/90KtPz6p/New-Project-12-Copy-2-Copy-F91-D60-C.png",
+            "attack": 3400,
+            "health": 4650,
+            "value": 3000,
+            "desc": "✨ Rare Card 15\n\n🔵 Rarity: Rare\n🗡️ Attack: 4300\n❤️ Health: 5700\n\n💠 Value: 3700 S.P"
+        },
+        {
+            "name": "Large Toilet",
+            "photo": "https://i.postimg.cc/GtRsngQC/New-Project-12-Copy-2-Copy-914-A88-D.png",
+            "attack": 2100,
+            "health": 4600,
+            "value": 3000,
+            "desc": "✨ Rare Card 16\n\n🔵 Rarity: Rare\n🗡️ Attack: 4400\n❤️ Health: 5800\n\n💠 Value: 3800 S.P"
+        },
+        {
+            "name": "Contruction Toilet",
+            "photo": "https://i.postimg.cc/KYDZXZbq/New-Project-12-Copy-2-Copy-7299686.png",
+            "attack": 3000,
+            "health": 4400,
+            "value": 3000,
+            "desc": "✨ Rare Card 17\n\n🔵 Rarity: Rare\n🗡️ Attack: 4500\n❤️ Health: 5900\n\n💠 Value: 3900 S.P"
+        },
+        {
+            "name": "Geeky Jesus Toilet",
+            "photo": "https://i.postimg.cc/2S4Yvz1k/New-Project-12-Copy-2-Copy-1-C1-AE78.png",
+            "attack": 3000,
+            "health": 4700,
+            "value": 4000,
+            "desc": "✨ Rare Card 18\n\n🔵 Rarity: Rare\n🗡️ Attack: 4600\n❤️ Health: 6000\n\n💠 Value: 4000 S.P"
+        },
+        {
+            "name": "Garry Newman Toilet",
+            "photo": "https://i.postimg.cc/0NnqWcGh/New-Project-12-Copy-2-Copy-C9-AF34-A.png",
+            "attack": 3750,
+            "health": 4700,
+            "value": 4000,
+            "desc": "✨ Rare Card 19\n\n🔵 Rarity: Rare\n🗡️ Attack: 4700\n❤️ Health: 6100\n\n💠 Value: 4100 S.P"
+        },
+        {
+            "name": "Large Gray Toilet",
+            "photo": "https://i.postimg.cc/yYcsZYsv/New-Project-12-Copy-2-Copy-7438-FE8.png",
+            "attack": 2100,
+            "health": 4800,
+            "value": 3000,
+            "desc": "✨ Rare Card 20\n\n🔵 Rarity: Rare\n🗡️ Attack: 4800\n❤️ Health: 6200\n\n💠 Value: 4200 S.P"
+        },
+        {
+            "name": "Dual Rocket Large Cameraman",
+            "photo": "https://i.postimg.cc/gJF9DTzZ/New-Project-12-CE42461.png",
+            "attack": 2500,
+            "health": 3100,
+            "value": 1300,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Armored Camera Van",
+            "photo": "https://i.postimg.cc/fRGgnS6X/New-Project-12-1-EA951-A.png",
+            "attack": 2500,
+            "health": 5800,
+            "value": 3200,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Camera Dropship",
+            "photo": "https://i.postimg.cc/gctsb6h0/New-Project-12-E5329-F2.png",
+            "attack": 100,
+            "health": 5900,
+            "value": 3600,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Sergeant Cameraman",
+            "photo": "https://i.postimg.cc/bY462tvG/New-Project-12-4-E4-F453.png",
+            "attack": 3700,
+            "health": 5100,
+            "value": 3500,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Samurai Cameraman",
+            "photo": "https://i.postimg.cc/mDvQh7yd/New-Project-12-1856-FE7.png",
+            "attack": 3300,
+            "health": 5100,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+           "name": "Cheaf Cameraman",
+            "photo": "https://i.postimg.cc/2SDTLkyy/New-Project-12-FBDAD3-D.png",
+            "attack": 2100,
+            "health": 4000,
+            "value": 4000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Scientist Camera Mech",
+            "photo": "https://i.postimg.cc/t4fzVL5G/New-Project-12-192459-D.png",
+            "attack": 3450,
+            "health": 5000,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Speaker Van",
+            "photo": "https://i.postimg.cc/j5kqs4K0/New-Project-12-Copy-53954-E6.png",
+            "attack": 2300,
+            "health": 5100,
+            "value": 3100,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Speakerwoman",
+            "photo": "https://i.postimg.cc/k5YD4mv9/New-Project-12-Copy-25-D2564.png",
+            "attack": 3550,
+            "health": 4600,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Dark Speakerman",
+            "photo": "https://i.postimg.cc/ncnx6Wqz/New-Project-12-Copy-A4-CC8-C2.png",
+            "attack": 3600,
+            "health": 5200,
+            "value": 3300,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Jefry",
+            "photo": "https://i.postimg.cc/zfZ0csRd/New-Project-12-Copy-2-517-B243.png",
+            "attack": 2775,
+            "health": 3100,
+            "value": 4000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Scrap Gibrid Toilet",
+            "photo": "https://i.postimg.cc/3wxZymzx/New-Project-12-Copy-2-Copy-5-D18-CD2.png",
+            "attack": 2100,
+            "health": 4500,
+            "value": 2100,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "First Mutant Toilet",
+            "photo": "https://i.postimg.cc/GtC8D19F/New-Project-12-Copy-2-Copy-7-CB4-A3-C.png",
+            "attack": 2200,
+            "health": 4700,
+            "value": 2100,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Normal Flying Toilet",
+            "photo": "https://i.postimg.cc/sX9ftGDX/New-Project-12-Copy-2-Copy-B47-B26-F.png",
+            "attack": 2500,
+            "health": 4100,
+            "value": 3300,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Duplex Airstrike Toilet",
+            "photo": "https://i.postimg.cc/B6qfPY4K/New-Project-12-Copy-2-Copy-BC26-F31.png",
+            "attack": 2500,
+            "health": 4500,
+            "value": 2700,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Flying Spawner Toilet",
+            "photo": "https://i.postimg.cc/52cGF7m2/New-Project-12-Copy-2-Copy-914-A88-D.png",
+            "attack": 2100,
+            "health": 5000,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Large Gray Toilet",
+            "photo": "https://i.postimg.cc/MTv2YcfJ/New-Project-12-Copy-2-Copy-7438-FE8.png",
+            "attack": 3000,
+            "health": 6000,
+            "value": 2500,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Claw Car Toilet",
+            "photo": "https://i.postimg.cc/HsT3Gq34/New-Project-12-Copy-2-Copy-B280969.png",
+            "attack": 2100,
+            "health": 4000,
+            "value": 2300,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Buzzsaw Strider Toilet",
+            "photo": "https://i.postimg.cc/tJvsMn2h/New-Project-12-Copy-2-Copy-AA18-C8-E.png",
+            "attack": 2100,
+            "health": 4200,
+            "value": 2100,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Scientist Claw Laser",
+            "photo": "https://i.postimg.cc/2688N8bp/New-Project-12-Copy-2-Copy-1-C82295.png",
+            "attack": 3100,
+            "health": 4000,
+            "value": 4000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Jetpack Claw Toilet",
+            "photo": "https://i.postimg.cc/t4NYKcSZ/New-Project-12-Copy-2-Copy-0-FBF0-B2.png",
+            "attack": 2200,
+            "health": 4100,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Dual Buzzsaw Mutant",
+            "photo": "https://i.postimg.cc/t4B9tGvs/New-Project-12-Copy-2-Copy-647-D225.png",
+            "attack": 3300,
+            "health": 5000,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Buzzsaw Soldier Toilet",
+            "photo": "https://i.postimg.cc/TYQzBqVF/New-Project-12-Copy-2-Copy-64-B2-FFE.png",
+            "attack": 3300,
+            "health": 4700,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Jetpack Engineer Toilet",
+            "photo": "https://i.postimg.cc/9FzbFd57/New-Project-12-Copy-2-Copy-7234-F80.png",
+            "attack": 3100,
+            "health": 4500,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Large Parasite Toilet",
+            "photo": "https://i.postimg.cc/sgrJPtGp/New-Project-12-Copy-2-Copy-3291-B88.png",
+            "attack": 3000,
+            "health": 5400,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Acid Gun Balaklava Toilet",
+            "photo": "https://i.postimg.cc/MH0nzrZk/New-Project-12-Copy-2-Copy-CD5-A458.png",
+            "attack": 3500,
+            "health": 4200,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Artilerist Toilet",
+            "photo": "https://i.postimg.cc/d3nJHMt1/New-Project-12-Copy-2-Copy-52-CA105.png",
+            "attack": 3400,
+            "health": 4800,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Armed Laser Guardian",
+            "photo": "https://i.postimg.cc/NMgVNKyF/New-Project-12-Copy-2-Copy-81-D4-F30.png",
+            "attack": 3600,
+            "health": 4590,
+            "value": 3300,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Armored Dual Laser",
+            "photo": "https://i.postimg.cc/zvkTxfgZ/New-Project-12-Copy-2-Copy-B4-F560-E.png",
+            "attack": 3400,
+            "health": 4700,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Duplex Laser Toilet",
+            "photo": "https://i.postimg.cc/qqZvBVfX/New-Project-12-Copy-2-Copy-2-A1-A346.png",
+            "attack": 3775,
+            "health": 5200,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Flying Buzzsaw",
+            "photo": "https://i.postimg.cc/mkcGwPqm/New-Project-12-Copy-2-Copy-56-D4-E0-E.png",
+            "attack": 3250,
+            "health": 4775,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        },
+        {
+            "name": "Astro Trooper V2"
+            "photo": "https://i.postimg.cc/xdW726FC/New-Project-12-Copy-2-Copy-Copy-8607-A75.png"
+            "attack": 4000,
+            "health": 6000,
+            "value": 3000,
+            "desc": "🔵 Пустая ячейка"
+        }
+    ],
+    "Epic": [
+        {
+            "name": "Plungerwoman 3.0",
+            "photo": "https://i.postimg.cc/nc231kpz/IMG-20250514-203745-324.jpg",
+            "attack": 6000,
+            "health": 8000,
+            "value": 10000,
+            "desc": "🔱 Plungerwoman\n\n🟣 Rarity: Epic\n🗡️ Attack: 6500\n❤️ Health: 8500\n\n💠 Value: 8900 S.P"
+        },
+        {
+            "name": "Astro Specialist",
+            "photo": "https://i.postimg.cc/bwv3VtwR/IMG-20250514-203651-421.jpg",
+            "attack": 6500,
+            "health": 9000,
+            "value": 8800,
+            "desc": "🔱 Astro Spicialist\n\n🟣 Rarity: Epic\n🗡️ Attack: 6000\n❤️ Health: 9000\n\n💠 Value: 7900 S.P"
+        },
+        {
+            "name": "Large Cameraman 3.0",
+            "photo": "https://i.postimg.cc/8k6xg56S/IMG-20250514-215152-785.jpg",
+            "attack": 6450,
+            "health": 9000,
+            "value": 9000,
+            "desc": "🔱 Large Cameraman 3.0\n\n🟣 Rarity: Epic\n🗡️ Attack: 6900\n❤️ Health: 9000\n\n💠 Value: 7900 S.P"
+        },
+        {
+            "name": "Juggernaut JR",
+            "photo": "https://i.postimg.cc/pLGsFbFC/IMG-20250514-215211-388.jpg",
+            "attack": 6700,
+            "health": 9500,
+            "value": 9500,
+            "desc": "🔱 Juggernaut JR\n\n🟣 Rarity: Epic\n🗡️ Attack: 7000\n❤️ Health: 9100\n\n💠 Value: 8500 S.P"
+        },
+        {
+            "name": "Glitch Plungerman",
+            "photo": "https://i.postimg.cc/9M72kB23/IMG-20250514-215729-399.jpg",
+            "attack": 6300,
+            "health": 8000,
+            "value": 10000,
+            "desc": "🔱 Glich Plungerman\n\n🟣 Rarity: Epic\n🗡️ Attack: 5900\n❤️ Health: 8000\n\n💠 Value: 8000 S.P"
+        },
+        {
+            "name": "Large Tvman",
+            "photo": "https://i.postimg.cc/Kjhbhgc1/IMG-20250514-215746-924.jpg",
+            "attack": 6200,
+            "health": 8900,
+            "value": 10000,
+            "desc": "🔱 Large Tvman\n\n🟣 Rarity: Epic\n🗡️ Attack: 5500\n❤️ Health: 8150\n\n💠 Value: 8750 S.P"
+        },
+        {
+            "name": "Shadow Tvman",
+            "photo": "https://i.postimg.cc/MpSYfZH1/IMG-20250514-220405-171.jpg",
+            "attack": 6500,
+            "health": 8650,
+            "value": 9000,
+            "desc": "🔱 Shadow Tvman\n\n🟣 Rarity: Epic\n🗡️ Attack: 5850\n❤️ Health: 8000\n\n💠 Value: 8800 S.P"
+        },
+        {
+            "name": "Sniper Cameraman 3.0",
+            "photo": "https://i.postimg.cc/66vKHpwr/New-Project-12-E9-ACF5-B.png",
+            "attack": 6450,
+            "health": 8500,
+            "value": 8500,
+            "desc": "🔱 Speakewoman\n\n🟣 Rarity: Epic\n🗡️ Attack: 4500\n❤️ Health: 6500\n\n💠 Value: 6100 S.P"
+        },
+        {
+            "name": "Chief Scientist Toilet",
+            "photo": "https://i.postimg.cc/P5J54YCH/IMG-20250514-220924-813.jpg",
+            "attack": 8200,
+            "health": 8500,
+            "value": 10000,
+            "desc": "🔱 Chief Scientist Toilet\n\n🟣 Rarity: Epic\n🗡️ Attack: 5300\n❤️ Health: 7100\n\n💠 Value: 9000 S.P"
+        },
+        {
+            "name": "Upgrae Buff Toilet",
+            "photo": "https://i.postimg.cc/W3GN37HG/IMG-20250514-220938-854.jpg",
+            "attack": 6350,
+            "health": 8990,
+            "value": 9000,
+            "desc": "🔱 Upgrade Buff Toilet\n\n🟣 Rarity: Epic\n🗡️ Attack: 6200\n❤️ Health: 8990\n\n💠 Value: 8100 S.P"
+        },
+        {
+            "name": "Upgrade Camera Strider",
+            "photo": "https://i.postimg.cc/zGj8n2N4/New-Project-12-794-E7-B3.png",
+            "attack": 6900,
+            "health": 9200,
+            "value": 9000,
+            "desc": "🔱 Epic Card 11\n\n🟣 Rarity: Epic\n🗡️ Attack: 7000\n❤️ Health: 9500\n\n💠 Value: 10000 S.P"
+        },
+        {
+            "name": "Speakerman 3.0 (Blade)",
+            "photo": "https://i.postimg.cc/TPNxsyp9/New-Project-12-Copy-57-F80-A2.png",
+            "attack": 6300,
+            "health": 8700,
+            "value": 8300,
+            "desc": "🔱 Epic Card 12\n\n🟣 Rarity: Epic\n🗡️ Attack: 7200\n❤️ Health: 9700\n\n💠 Value: 10500 S.P"
+        },
+        {
+            "name": "Speakerman 3.0 (Hammer)",
+            "photo": "https://i.postimg.cc/158vm7W5/New-Project-12-Copy-71-CEB2-E.png",
+            "attack": 6400,
+            "health": 8900,
+            "value": 8800,
+            "desc": "🔱 Epic Card 13\n\n🟣 Rarity: Epic\n🗡️ Attack: 7400\n❤️ Health: 9900\n\n💠 Value: 11000 S.P"
+        },
+        {
+            "name": "Large Speakerman 3.0",
+            "photo": "https://i.postimg.cc/SKP0rwv1/New-Project-12-Copy-62-B4123.png",
+            "attack": 6875,
+            "health": 9600,
+            "value": 9200,
+            "desc": "🔱 Epic Card 14\n\n🟣 Rarity: Epic\n🗡️ Attack: 7600\n❤️ Health: 10100\n\n💠 Value: 11500 S.P"
+        },
+        {
+            "name": "Speakerwoman 3.0",
+            "photo": "https://i.postimg.cc/x8KW9qTB/New-Project-12-Copy-F0-BF522.png",
+            "attack": 6550,
+            "health": 8550,
+            "value": 8800,
+            "desc": "🔱 Epic Card 15\n\n🟣 Rarity: Epic\n🗡️ Attack: 7800\n❤️ Health: 10300\n\n💠 Value: 12000 S.P"
+        },
+        {
+            "name": "Upgrade Large Tvman",
+            "photo": "https://i.postimg.cc/RCKr7pQG/New-Project-12-Copy-2-CDCF59-E.png",
+            "attack": 6775,
+            "health": 9400,
+            "value": 10000,
+            "desc": "🔱 Epic Card 16\n\n🟣 Rarity: Epic\n🗡️ Attack: 8000\n❤️ Health: 10500\n\n💠 Value: 12500 S.P"
+        },
+        {
+            "name": "Mafia Toilet",
+            "photo": "https://i.postimg.cc/8kv6ZWKg/New-Project-12-Copy-2-Copy-2-F71-FD8.png",
+            "attack": 5000,
+            "health": 8500,
+            "value": 8250,
+            "desc": "🔱 Epic Card 17\n\n🟣 Rarity: Epic\n🗡️ Attack: 8200\n❤️ Health: 10700\n\n💠 Value: 13000 S.P"
+        },
+        {
+            "name": "Explosive Barrel Toilet",
+            "photo": "https://i.postimg.cc/wjwy1kvL/New-Project-12-Copy-2-Copy-6055159.png",
+            "attack": 6900,
+            "health": 700,
+            "value": 8500,
+            "desc": "🔱 Epic Card 18\n\n🟣 Rarity: Epic\n🗡️ Attack: 8400\n❤️ Health: 10900\n\n💠 Value: 13500 S.P"
+        },
+        {
+            "name": "Skibidi Strider",
+            "photo": "https://i.postimg.cc/RCwW7mhM/New-Project-12-Copy-2-Copy-5-F13844.png",
+            "attack": 5800,
+            "health": 7900,
+            "value": 8000,
+            "desc": "🔱 Epic Card 19\n\n🟣 Rarity: Epic\n🗡️ Attack: 8600\n❤️ Health: 11100\n\n💠 Value: 14000 S.P"
+        },
+        {
+            "name": "Astro Hunter",
+            "photo": "https://i.postimg.cc/BvdvF7GL/New-Project-12-Copy-2-Copy-Copy-F9-CAEB1.png",
+            "attack": 6700,
+            "health": 9700,
+            "value": 9500,
+            "desc": "🔱 Epic Card 20\n\n🟣 Rarity: Epic\n🗡️ Attack: 8800\n❤️ Health: 11300\n\n💠 Value: 14500 S.P"
+        },
+        {
+            "name": "Camera Helicopter(Attack)",
+            "photo": "https://i.postimg.cc/G2fpdnnK/New-Project-12-DCB161-A.png",
+            "attack": 6100,
+            "health": 8500,
+            "value": 8800,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Camera Helicopter(Support)",
+            "photo": "https://i.postimg.cc/T1xK3kjZ/New-Project-12-4-DD1-B8-E.png",
+            "attack": 5000,
+            "health": 8700,
+            "value": 8600,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Heavy Cameraman",
+            "photo": "https://i.postimg.cc/fb4DsVfY/New-Project-12-DCC3-F33.png",
+            "attack": 6500,
+            "health": 8500,
+            "value": 8700,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Cameraman 3.0",
+            "photo": "https://i.postimg.cc/0N9X7xk9/New-Project-12-67-EB1-E0.png",
+            "attack": 6350,
+            "health": 8300,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Orbital Camera 3.0",
+            "photo": "https://i.postimg.cc/mgBKy7jq/New-Project-12-06-FF194.png",
+            "attack": 6700,
+            "health": 9600,
+            "value": 9500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Camera Van 3.0",
+            "photo": "https://i.postimg.cc/63chwGnp/New-Project-12-647735-A.png",
+            "attack": 6500,
+            "health": 9450,
+            "value": 9600,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Plasma Camera Car",
+            "photo": "https://i.postimg.cc/7hNnHJzT/New-Project-12-8648-B5-F.png",
+            "attack": 6750,
+            "health": 9500,
+            "value": 9500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Camera Strider",
+            "photo": "https://i.postimg.cc/pT3KPYyf/New-Project-12-CCDC39-D.png",
+            "attack": 5500,
+            "health": 8000,
+            "value": 7000,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Quad-Claw Camera Toilet",
+            "photo": "https://i.postimg.cc/QCsxgHzG/New-Project-12-AB15-F60.png",
+            "attack": 6300,
+            "health": 8700,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Speaker Plane",
+            "photo": "https://i.postimg.cc/rmVPST9W/New-Project-12-Copy-586275-E.png",
+            "attack": 5200,
+            "health": 8600,
+            "value": 8800,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Larry",
+            "photo": "https://i.postimg.cc/sf9djgD5/New-Project-12-Copy-2-AAD913-A.png",
+            "attack": 6250,
+            "health": 8800,
+            "value": 9600,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Scarf Tv Man",
+            "photo": "https://i.postimg.cc/zv9R2FbS/New-Project-12-Copy-2-48-BDA9-B.png",
+            "attack": 6150,
+            "health": 8900,
+            "value": 9500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Superman Toilet",
+            "photo": "https://i.postimg.cc/HWZGcPXB/New-Project-12-Copy-2-Copy-B9-C3419.png",
+            "attack": 6750,
+            "health": 7000,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Upgrade Michael Jackson",
+            "photo": "https://i.postimg.cc/25zTxCNP/New-Project-12-Copy-2-Copy-446-A755.png",
+            "attack": 6400,
+            "health": 8650,
+            "value": 8600,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Eli Vance Toilet",
+            "photo": "https://i.postimg.cc/DzZpT7Yk/New-Project-12-Copy-2-Copy-19-CDE7-C.png",
+            "attack": 6275,
+            "health": 8600,
+            "value": 8300,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Weaponized Camo Toilet",
+            "photo": "https://i.postimg.cc/pXcnSx89/New-Project-12-Copy-2-Copy-BE22928.png",
+            "attack": 6175,
+            "health": 8500,
+            "value": 8300,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Isaac Kleiner Toilet",
+            "photo": "https://i.postimg.cc/8c9fjmTT/New-Project-12-Copy-2-Copy-108570-E.png",
+            "attack": 6250,
+            "health": 8700,
+            "value": 10000,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Upgrade S.W.A.T Mutant",
+            "photo": "https://i.postimg.cc/cLXtVnzv/New-Project-12-Copy-2-Copy-071926-B.png",
+            "attack": 6400,
+            "health": 8700,
+            "value": 8600,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Hugo Boss",
+            "photo": "https://i.postimg.cc/Y0dwptB3/New-Project-12-Copy-2-Copy-E100-A8-F.png",
+            "attack": 6775,
+            "health": 8900,
+            "value": 9000,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Large Balaklava Toilet",
+            "photo": "https://i.postimg.cc/3xR2r1m1/New-Project-12-Copy-2-Copy-67-A3360.png",
+            "attack": 5500,
+            "health": 9900,
+            "value": 8300,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Acid Barrel Toilet",
+            "photo": "https://i.postimg.cc/FFkrvLYV/New-Project-12-Copy-2-Copy-A0-F692-C.png",
+            "attack": 7000,
+            "health": 7000,
+            "value": 8800,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Explosive Airplane Toilet",
+            "photo": "https://i.postimg.cc/d0W55DvY/New-Project-12-Copy-2-Copy-7-F12-BE1.png",
+            "attack": 6500,
+            "health": 7000,
+            "value": 8200,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Double Transporter Toilet",
+            "photo": "https://i.postimg.cc/pdgFVtJy/New-Project-12-Copy-2-Copy-11193-E6.png",
+            "attack": 500,
+            "health": 9700,
+            "value": 8800,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Jetpack Rocketeer Toilet",
+            "photo": "https://i.postimg.cc/zvf59yHK/New-Project-12-Copy-2-Copy-D674545.png",
+            "attack": 6100,
+            "health": 8400,
+            "value": 8300,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Flying Octo-Launcher Toilet",
+            "photo": "https://i.postimg.cc/CKK3h3xY/New-Project-12-Copy-2-Copy-85138-C9.png",
+            "attack": 6300,
+            "health": 8800,
+            "value": 8800,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Octo Launcher Toilet",
+            "photo": "https://i.postimg.cc/FznZx6Qj/New-Project-12-Copy-2-Copy-891-D6-B3.png",
+            "attack": 6800,
+            "health": 9000,
+            "value": 8600,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Quad Buzzsaw Toilet",
+            "photo": "https://i.postimg.cc/3rDFMtYk/New-Project-12-Copy-2-Copy-98-EEF3-C.png",
+            "attack": 6100,
+            "health": 8500,
+            "value": 8200,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Jetpack Impaler Toilet",
+            "photo": "https://i.postimg.cc/htwGq1SR/New-Project-12-Copy-2-Copy-2-CBEEE9.png",
+            "attack": 6350,
+            "health": 9250,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Artilerist Strider Toilet",
+            "photo": "https://i.postimg.cc/vHrjyYbQ/New-Project-12-Copy-2-Copy-398-E2-F3.png",
+            "attack": 6400,
+            "health": 9250,
+            "value": 8700,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Flashlight Laser Guardian Toilet",
+            "photo": "https://i.postimg.cc/XYZsJn0C/New-Project-12-Copy-2-Copy-56-C08-DD.png",
+            "attack": 6200,
+            "health": 8200,
+            "value": 8000,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Michael Jackson Toilet",
+            "photo": "https://i.postimg.cc/LXvhYYd9/New-Project-12-Copy-2-Copy-6991-B5-B.png",
+            "attack": 6000,
+            "health": 8250,
+            "value": 8300,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Shield Laser Rocketeer Toilet",
+            "photo": "https://i.postimg.cc/5yY146fc/New-Project-12-Copy-2-Copy-27-D68-EE.png",
+            "attack": 6500,
+            "health": 9000,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Buff Mutant",
+            "photo": "https://i.postimg.cc/Dy3yvP4C/New-Project-12-Copy-2-Copy-DB23486.png",
+            "attack": 6100,
+            "health": 8475,
+            "value": 8700,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Glitch Toilet",
+            "photo": "https://i.postimg.cc/HkxGdrzs/New-Project-12-Copy-2-Copy-D998518.png",
+            "attack": 6300,
+            "health": 8200,
+            "value": 8800,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Fast Armored Toilet",
+            "photo": "https://i.postimg.cc/QtD0NPsG/New-Project-12-Copy-2-Copy-6585-B50.png",
+            "attack": 6850,
+            "health": 8770,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Dual Laser Strider Toilet",
+            "photo": "https://i.postimg.cc/nL2Q7wBF/New-Project-12-Copy-2-Copy-3-B447-B8.png",
+            "attack": 6200,
+            "health": 8350,
+            "value": 8400,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "S.W.A.T Mutant",
+            "photo": "https://i.postimg.cc/CxVJS5gf/New-Project-12-Copy-2-Copy-9-DE3-AC1.png",
+            "attack": 6000,
+            "health": 8150,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Acid Strider Toilet",
+            "photo": "https://i.postimg.cc/VkLrqPBm/New-Project-12-Copy-2-Copy-87-E101-A.png",
+            "attack": 6900,
+            "health": 7000,
+            "value": 9000,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Armed Strider Toilet",
+            "photo": "https://i.postimg.cc/NMwQx1qN/New-Project-12-Copy-2-Copy-0-B599-AE.png",
+            "attack": 6225,
+            "health": 8400,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Acidic Artillerist Toilet",
+            "photo": "https://i.postimg.cc/ZRJ1RjzQ/New-Project-12-Copy-2-Copy-0-CA9342.png",
+            "attack": 6375,
+            "health": 8700,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Bill Tank Toilet",
+            "photo": "https://i.postimg.cc/L4jFTqN7/New-Project-12-Copy-2-Copy-CCC1-EC0.png",
+            "attack": 6250,
+            "health": 8675,
+            "value": 8600,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Jetpack Laser Balaclava Toilet",
+            "photo": "https://i.postimg.cc/cLbzZZFL/New-Project-12-Copy-2-Copy-F2-A60-D5.png",
+            "attack": 6700,
+            "health": 8700,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Jetpack Hexa-Launcher Toilet",
+            "photo": "https://i.postimg.cc/tJnTS9v9/New-Project-12-Copy-2-Copy-256-A1-A0.png",
+            "attack": 6275,
+            "health": 8500,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Laser Drifter Toilet",
+            "photo": "https://i.postimg.cc/Mp6cxJvC/New-Project-12-Copy-2-Copy-8-AC3-EB2.png",
+            "attack": 6200,
+            "health": 8900,
+            "value": 8700,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Very Weaponejd Strider Toilet",
+            "photo": "https://i.postimg.cc/mDfBL7mT/New-Project-12-Copy-2-Copy-1-D97-C15.png",
+            "attack": 6875,
+            "health": 9450,
+            "value": 8900,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Astro Laser Strider Toilet",
+            "photo": "https://i.postimg.cc/SQg3VWcC/New-Project-12-Copy-2-Copy-E9-F115-E.png",
+            "attack": 6750,
+            "health": 9300,
+            "value": 9700,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Astro Strider",
+            "photo": "https://i.postimg.cc/tTSkdN8C/New-Project-12-Copy-2-Copy-Copy-8-ACE417.png",
+            "attack": 6725,
+            "health": 9550,
+            "value": 9000,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Ufo Astro Toilet",
+            "photo": "https://i.postimg.cc/dt8Wpryr/New-Project-12-Copy-2-Copy-Copy-2888-D3-B.png",
+            "attack": 7000,
+            "health": 10000,
+            "value": 10000,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Core-Fucker",
+            "photo": "https://i.postimg.cc/y6hczPLZ/New-Project-12-Copy-2-Copy-Copy-6-B69-E68.png",
+            "attack": 6000,
+            "health": 10000,
+            "value": 9459,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Astro Interceptor",
+            "photo": "https://i.postimg.cc/RVDFrJxh/New-Project-12-Copy-2-Copy-Copy-AEDE47-B.png",
+            "attack": 6900,
+            "health": 9875,
+            "value": 9350,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Enerjize Simp Cameraman",
+            "photo": "https://i.postimg.cc/bvKC4T3b/New-Project-12-E3-B2-A2-D.png",
+            "attack": 6150,
+            "health": 8500,
+            "value": 8500,
+            "desc": "🟣 Пустая ячейка"
+        },
+        {
+            "name": "Anti Parasite Tank",
+            "photo": "https://i.postimg.cc/J0hkxwZS/New-Project-12-0-D2-D0-C1.png",
+            "attack": 6100,
+            "health": 8700,
+            "value": 10000,
+            "desc": "🟣 Пустая ячейка"
+        }
+    ],
+    "Legend": [
+        {
+            "name": "Injurde Titan Cameraman (Acid Gun)",
+            "photo": "https://i.postimg.cc/htLF30bQ/IMG-20250517-163004-844.jpg",
+            "attack": 8800,
+            "health": 15000,
+            "value": 15000,
+            "desc": "🎲 Astro Carrier\n\n🔴 Rarity: Legend\n🗡️ Attack: 9500\n❤️ Health: 18500\n\n💠 Value: 15000 S.P"
+        },
+        {
+            "name": "Titan Cinemaman",
+            "photo": "https://i.postimg.cc/yN2K8Kbw/IMG-20250514-204739-316.jpg",
+            "attack": 8650,
+            "health": 12100,
+            "value": 15500,
+            "desc": "🎲 Titan Cinemaman\n\n🔴 Rarity: Legend\n🗡️ Attack: 11900\n❤️ Health: 14500\n\n💠 Value: 12000 S.P"
+        },
+        {
+            "name": "Astro Destructor",
+            "photo": "https://i.postimg.cc/zG7PJH7y/IMG-20250514-221424-060.jpg",
+            "attack": 9700,
+            "health": 17350,
+            "value": 18000,
+            "desc": "🎲 Astro Destructor\n\n🔴 Rarity: Legend\n🗡️ Attack: 9000\n❤️ Health: 15700\n\n💠 Value: 15900 S.P"
+        },
+        {
+            "name": "Astro Obliterator",
+            "photo": "https://i.postimg.cc/HsQhhh74/IMG-20250514-221412-329.jpg",
+            "attack": 9550,
+            "health": 17450,
+            "value": 17800,
+            "desc": "🎲 Astro Obliterator\n\n🔴 Rarity: Legend\n🗡️ Attack: 8650\n❤️ Health: 16100\n\n💠 Value: 15300 S.P"
+        },
+        {
+            "name": "Skull Dimalter Toilet",
+            "photo": "https://i.postimg.cc/tRPb9Dx7/IMG-20250514-222332-630.jpg",
+            "attack": 8475,
+            "health": 12000,
+            "value": 11500,
+            "desc": "🎲 Skull Dismalter Toilet\n\n🔴 Rarity: Legend\n🗡️ Attack: 8300\n❤️ Health: 10500\n\n💠 Value: 9000 S.P"
+        },
+        {
+            "name": "G-Toilet Clone (Laser)",
+            "photo": "https://i.postimg.cc/VksPB8Hb/IMG-20250514-222347-068.jpg",
+            "attack": 8650,
+            "health": 16750,
+            "value": 12750,
+            "desc": "🎲 G-Toilet Clone (Laser)\n\n🔴 Rarity: Legend\n🗡️ Attack: 8500\n❤️ Health: 16150\n\n💠 Value: 12500 S.P"
+        },
+        {
+            "name": "G-Toilet 3.0",
+            "photo": "https://i.postimg.cc/dVCrBbkw/IMG-20250514-222849-316.jpg",
+            "attack": 8750,
+            "health": 16500,
+            "value": 16000,
+            "desc": "🎲 G-Toilet 3.0\n\n🔴 Rarity: Legend\n🗡️ Attack: 8700\n❤️ Health: 15100\n\n💠 Value: 16000 S.P"
+        },
+        {
+            "name": "Titan Cameraman 1.0",
+            "photo": "https://i.postimg.cc/PqzZG1Q7/IMG-20250514-222905-967.jpg",
+            "attack": 8250,
+            "health": 10500,
+            "value": 10500,
+            "desc": "🎲 Titan Cameraman 1.0\n\n🔴 Rarity: Legend\n🗡️ Attack: 8200\n❤️ Health: 11200\n\n💠 Value: 10000 S.P"
+        },
+        {
+            "name": "Upgrade Mafia Toilet",
+            "photo": "https://i.postimg.cc/52G1xrnY/IMG-20250514-223348-782.jpg",
+            "attack": 8525,
+            "health": 12500,
+            "value": 11500,
+            "desc": "🎲 Upgrade Mafia Toilet\n\n🔴 Rarity: Legend\n🗡️ Attack: 8600\n❤️ Health: 11000\n\n💠 Value: 10000 S.P"
+        },
+        {
+            "name": "Rocket Overload Toilet",
+            "photo": "https://i.postimg.cc/5tCJjmRP/IMG-20250514-223359-605.jpg",
+            "attack": 8700,
+            "health": 13200,
+            "value": 13500,
+            "desc": "🎲 Rocket Overload Toilet\n\n🔴 Rarity: Legend\n🗡️ Attack: 8700\n❤️ Health: 10000\n\n💠 Value: 10000 S.P"
+        },
+        {
+            "name": "Titan Speakerman (No Hyper)-",
+            "photo": "https://i.postimg.cc/90BXvWwZ/New-Project-12-Copy-89-F2437.png",
+            "attack": 9000,
+            "health": 12000,
+            "value": 17000,
+            "desc": "🎲 Legend Card 11\n\n🔴 Rarity: Legend\n🗡️ Attack: 9000\n❤️ Health: 17000\n\n💠 Value: 17000 S.P"
+        },
+        {
+            "name": "Speaker Strider 3.0",
+            "photo": "https://i.postimg.cc/pLrV6MW5/New-Project-12-Copy-D52-C33-B.png",
+            "attack": 10000,
+            "health": 19250,
+            "value": 19000,
+            "desc": "🎲 Legend Card 12\n\n🔴 Rarity: Legend\n🗡️ Attack: 9200\n❤️ Health: 17500\n\n💠 Value: 17500 S.P"
+        },
+        {
+            "name": "Titan Tvman 1.0",
+            "photo": "https://i.postimg.cc/DymtVvGh/New-Project-12-Copy-2-02556-E6.png",
+            "attack": 8450,
+            "health": 12100,
+            "value": 15500,
+            "desc": "🎲 Legend Card 13\n\n🔴 Rarity: Legend\n🗡️ Attack: 9400\n❤️ Health: 18000\n\n💠 Value: 18000 S.P"
+        },
+        {
+            "name": "Jetpack Dj Toilet",
+            "photo": "https://i.postimg.cc/1tJYT254/New-Project-12-Copy-2-Copy-279851-E.png",
+            "attack": 8500,
+            "health": 16500,
+            "value": 12500,
+            "desc": "🎲 Legend Card 14\n\n🔴 Rarity: Legend\n🗡️ Attack: 9600\n❤️ Health: 18500\n\n💠 Value: 18500 S.P"
+        },
+        {
+            "name": "Ravager Toilet",
+            "photo": "https://i.postimg.cc/pTn76jjz/New-Project-12-Copy-2-Copy-AEBD046.png",
+            "attack": 8450,
+            "health": 14500,
+            "value": 13000,
+            "desc": "🎲 Legend Card 15\n\n🔴 Rarity: Legend\n🗡️ Attack: 9800\n❤️ Health: 19000\n\n💠 Value: 19000 S.P"
+        },
+        {
+            "name": "Bladewielder",
+            "photo": "https://i.postimg.cc/d1vdbPZq/New-Project-12-Copy-2-Copy-B953-C44.png",
+            "attack": 8225,
+            "health": 11000,
+            "value": 11500,
+            "desc": "🎲 Legend Card 16\n\n🔴 Rarity: Legend\n🗡️ Attack: 10000\n❤️ Health: 19500\n\n💠 Value: 19500 S.P"
+        },
+        {
+            "name": "G-Toilet 1.0",
+            "photo": "https://i.postimg.cc/rpYs9BGH/New-Project-12-Copy-2-Copy-8-B9-B9-E8.png",
+            "attack": 8250,
+            "health": 10500,
+            "value": 13000,
+            "desc": "🎲 Legend Card 17\n\n🔴 Rarity: Legend\n🗡️ Attack: 10200\n❤️ Health: 20000\n\n💠 Value: 20000 S.P"
+        },
+        {
+            "name": "Fake G-Toilet",
+            "photo": "https://i.postimg.cc/9QkHgCSQ/New-Project-12-Copy-2-Copy-FCCB660.png",
+            "attack": 8750,
+            "health": 16600,
+            "value": 14000,
+            "desc": "🎲 Legend Card 18\n\n🔴 Rarity: Legend\n🗡️ Attack: 10400\n❤️ Health: 20500\n\n💠 Value: 20500 S.P"
+        },
+        {
+            "name": "G-Toilet 2.0",
+            "photo": "https://i.postimg.cc/k4nsxtcQ/New-Project-12-Copy-2-Copy-65-A1-E34.png",
+            "attack": 8450,
+            "health": 14300,
+            "value": 15000,
+            "desc": "🎲 Legend Card 19\n\n🔴 Rarity: Legend\n🗡️ Attack: 10600\n❤️ Health: 21000\n\n💠 Value: 21000 S.P"
+        },
+        {
+            "name": "Watchman Of Doom",
+            "photo": "https://i.postimg.cc/WbM7fnHJ/New-Project-12-Copy-2-Copy-Copy-C267-F1-A.png",
+            "attack": 8450,
+            "health": 15000,
+            "value": 20000,
+            "desc": "🎲 Legend Card 20\n\n🔴 Rarity: Legend\n🗡️ Attack: 10800\n❤️ Health: 21500\n\n💠 Value: 21500 S.P"
+        },
+        {
+            "name": "Injurde UTCM (Buzzsaw)",
+            "photo": "https://i.postimg.cc/8k0hP5hc/New-Project-12-9-A18-DC1.png",
+            "attack": 8650,
+            "health": 18000,
+            "value": 16900,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Injurde UTCM (Astro Hand)",
+            "photo": "https://i.postimg.cc/X7KwW0ks/New-Project-12-303-F692.png",
+            "attack": 8900,
+            "health": 17000,
+            "value": 17500,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Titan Speakerman 1.0",
+            "photo": "https://i.postimg.cc/PqvJtWkD/New-Project-12-Copy-E1-F79-DF.png",
+            "attack": 8300,
+            "health": 11000,
+            "value": 11500,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Giant Bath Skibidi",
+            "photo": "https://i.postimg.cc/8c5qSb21/New-Project-12-Copy-2-Copy-0-C48004.png",
+            "attack": 8225,
+            "health": 12000,
+            "value": 11000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Giant Flying Toilet",
+            "photo": "https://i.postimg.cc/k4VpY5K9/New-Project-12-Copy-2-Copy-079-AF75.png",
+            "attack": 8100,
+            "health": 10000,
+            "value": 11500,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Giant Camo Toilet",
+            "photo": "https://i.postimg.cc/Gh7yXvwj/New-Project-12-Copy-2-Copy-4-D38-F1-A.png",
+            "attack": 8100,
+            "health": 10500,
+            "value": 11000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Quat-Laser Scientist Mech",
+            "photo": "https://i.postimg.cc/cH0CxJGv/New-Project-12-Copy-2-Copy-11-F2-BAD.png",
+            "attack": 8400,
+            "health": 14500,
+            "value": 12500,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "G-Clone (Rocket)",
+            "photo": "https://i.postimg.cc/NjRQKw45/New-Project-12-Copy-2-Copy-0-CA3-ED0.png",
+            "attack": 8550,
+            "health": 16750,
+            "value": 13000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "G-Clone (Buzzsaw)",
+            "photo": "https://i.postimg.cc/zGkXdrRt/New-Project-12-Copy-2-Copy-F91-C457.png",
+            "attack": 8450,
+            "health": 16750,
+            "value": 13000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Flamethrower Toilet",
+            "photo": "https://i.postimg.cc/q7zV8Vcv/New-Project-12-Copy-2-Copy-939-AA5-A.png",
+            "attack": 8250,
+            "health": 12700,
+            "value": 11500,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Acid Helicopter Bomber Toilet",
+            "photo": "https://i.postimg.cc/m2df5gg5/New-Project-12-Copy-2-Copy-503-CC4-E.png",
+            "attack": 8675,
+            "health": 14000,
+            "value": 11000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Quad-Launcer Toilet",
+            "photo": "https://i.postimg.cc/tJTDZpG7/New-Project-12-Copy-2-Copy-A1618-FC.png",
+            "attack": 6150,
+            "health": 11500,
+            "value": 11500,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Ultra Launcher Toilet",
+            "photo": "https://i.postimg.cc/5NzRW5bx/New-Project-12-Copy-2-Copy-DA2-A92-D.png",
+            "attack": 8775,
+            "health": 14000,
+            "value": 13000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Multi Rocketeer Toilet",
+            "photo": "https://i.postimg.cc/GmcJgvp7/New-Project-12-Copy-2-Copy-1-A22231.png",
+            "attack": 8600,
+            "health": 14250,
+            "value": 13000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Hexa-Tendril Toilet",
+            "photo": "https://i.postimg.cc/90YwyNym/New-Project-12-Copy-2-Copy-577-C4-C1.png",
+            "attack": 8050,
+            "health": 10000,
+            "value": 10000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Penta-Laser Strider Toilet",
+            "photo": "https://i.postimg.cc/Wb9hjZnr/New-Project-12-Copy-2-Copy-F8-A14-E3.png",
+            "attack": 8800,
+            "health": 14000,
+            "value": 13000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Quad-Buzzsaw Toilet",
+            "photo": "https://i.postimg.cc/xdLfkNvQ/New-Project-12-Copy-2-Copy-977-BF3-C.png",
+            "attack": 8300,
+            "health": 15000,
+            "value": 13000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Giant Dual-Laser Toilet",
+            "photo": "https://i.postimg.cc/BZVr0QFb/New-Project-12-Copy-2-Copy-BE69-E25.png",
+            "attack": 8200,
+            "health": 14350,
+            "value": 12000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Giant Oven Toilet",
+            "photo": "https://i.postimg.cc/rm32Q8CW/New-Project-12-Copy-2-Copy-B8621-D8.png",
+            "attack": 8000,
+            "health": 13000,
+            "value": 11000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Upgrade Dj Toilet",
+            "photo": "https://i.postimg.cc/28NP690J/New-Project-12-Copy-2-Copy-36001-B1.png",
+            "attack": 8700,
+            "health": 13500,
+            "value": 14000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Triplet Toilet",
+            "photo": "https://i.postimg.cc/Y0HbpZt6/New-Project-12-Copy-2-Copy-F6454-A1.png",
+            "attack": 8000,
+            "health": 10000,
+            "value": 10000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Jetpack Quad-Laser Toilet",
+            "photo": "https://i.postimg.cc/T2J2xS1M/New-Project-12-Copy-2-Copy-8-FBB0-E3.png",
+            "attack": 8800,
+            "health": 14000,
+            "value": 14000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Giant Scientist Mech 2.0",
+            "photo": "https://i.postimg.cc/fbfqyx0G/New-Project-12-Copy-2-Copy-8-C00-F7-B.png",
+            "attack": 9875,
+            "health": 19500,
+            "value": 17000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Vacoum Toilet",
+            "photo": "https://i.postimg.cc/G3VWZxPW/New-Project-12-Copy-2-Copy-613150-A.png",
+            "attack": 7700,
+            "health": 10500,
+            "value": 10000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Mutant Mafia Toilet",
+            "photo": "https://i.postimg.cc/nLhSsXY2/New-Project-12-Copy-2-Copy-EFAA676.png",
+            "attack": 9000,
+            "health": 16500,
+            "value": 15000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Astro Rocketeer",
+            "photo": "https://i.postimg.cc/gkfGHPBD/quality-restoration-20251006070058827.png",
+            "attack": 8550,
+            "health": 16750,
+            "value": 13900,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Astro Impactor",
+            "photo": "https://i.postimg.cc/766vyBWH/New-Project-12-Copy-2-Copy-Copy-A281-A22.png",
+            "attack": 9600,
+            "health": 18650,
+            "value": 17000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Astro Scorpion",
+            "photo": "https://i.postimg.cc/GhRWLhNS/New-Project-12-Copy-2-Copy-Copy-8-EB6066.png",
+            "attack": 8700,
+            "health": 14500,
+            "value": 14000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Very Injurde UTCM",
+            "photo": "https://i.postimg.cc/1XxDyCr0/New-Project-12-0-FAF443.png",
+            "attack": 8450,
+            "health": 13500,
+            "value": 16000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Speaker Plane 2.0",
+            "photo": "https://i.postimg.cc/RCQW3ZSf/New-Project-12-Copy-C504-A63.png",
+            "attack": 9700,
+            "health": 17750,
+            "value": 17000,
+            "desc": "🔴 Пустая ячейка"
+        },
+        {
+            "name": "Very Injurde UTSM",
+            "photo": "https://i.postimg.cc/qqM460w3/New-Project-12-Copy-AAEF34-D.png",
+            "attack": 8175,
+            "health": 11500,
+            "value": 14000,
+            "desc": "🔴 Пустая ячейка"
+        }
+    ],
+    "Mythic": [
+        {
+            "name": "Titan Cameraman 2.0",
+            "photo": "https://i.postimg.cc/gj5tz649/New-Project-11-BB5-E370.png",
+            "attack": 15000,
+            "health": 20500,
+            "value": 27000,
+            "desc": "💎 Titan Cameraman 2.0\n\n🟡 Rarity: Mythic\n🗡️ Attack: 14550\n❤️ Health: 18700\n\n💠 Value: 19500 S.P"
+        },
+        {
+            "name": "Titan Speakerman 2.0",
+            "photo": "https://i.postimg.cc/MKQd0HdT/New-Project-11-21-A7-FAD.png",
+            "attack": 14250,
+            "health": 18000,
+            "value": 22000,
+            "desc": "💎 Titan Speakerman 2.0\n\n🟡 Rarity: Mythic\n🗡️ Attack: 14250\n❤️ Health: 18000\n\n💠 Value: 22000 S.P"
+        },
+        {
+            "name": "Hyper Titan Speakerman",
+            "photo": "https://i.postimg.cc/2SNLsSmV/New-Project-11-3472629.png",
+            "attack": 15750,
+            "health": 16500,
+            "value": 25000,
+            "desc": "💎 Hyper Titan Speakerman\n\n🟡 Rarity: Mythic\n🗡️ Attack: 15750\n❤️ Health: 16500\n\n💠 Value: 25000 S.P"
+        },
+        {
+            "name": "G-Toilet 4.0",
+            "photo": "https://i.postimg.cc/g2rRyTYK/New-Project-11-6-B047-AF.png",
+            "attack": 16550,
+            "health": 20750,
+            "value": 40000,
+            "desc": "💎 G-Toilet 4.0\n\n🟡 Rarity: Mythic\n🗡️ Attack: 16550\n❤️ Health: 20750\n\n💠 Value: 40000 S.P"
+        },
+        {
+            "name": "G-Toilet 5.0",
+            "photo": "https://i.postimg.cc/QdrG1Rg2/New-Project-11-2-D931-CC.png",
+            "attack": 17500,
+            "health": 22500,
+            "value": 40000,
+            "desc": "💎 G-Toilet 5.0\n\n🟡 Rarity: Mythic\n🗡️ Attack: 17500\n❤️ Health: 22500\n\n💠 Value: 40000 S.P"
+        },
+        {
+            "name": "Astro Dushess",
+            "photo": "https://i.postimg.cc/ZnTjJx6D/New-Project-11-ACB740-F.png",
+            "attack": 16250,
+            "health": 19250,
+            "value": 35000,
+            "desc": "💎 Astro Dushess\n\n🟡 Rarity: Mythic\n🗡️ Attack: 16250\n❤️ Health: 19250\n\n💠 Value: 35000 S.P"
+        },
+        {
+            "name": "Astro Detainer",
+            "photo": "https://i.postimg.cc/mrjt032r/New-Project-11-404-D09-F.png",
+            "attack": 16000,
+            "health": 19500,
+            "value": 33000,
+            "desc": "💎 Astro Detainer\n\n🟡 Rarity: Mythic\n🗡️ Attack: 16000\n❤️ Health: 19500\n\n💠 Value: 33000 S.P"
+        },
+        {
+            "name": "Astro Juggernaut",
+            "photo": "https://i.postimg.cc/Wb4LnMxn/New-Project-11-5-FC6730.png",
+            "attack": 17250,
+            "health": 22000,
+            "value": 39000,
+            "desc": "💎 Astro Juggernaut\n\n🟡 Rarity: Mythic\n🗡️ Attack: 17250\n❤️ Health: 22000\n\n💠 Value: 39000 S.P"
+        },
+        {
+            "name": "Titan Tvman 2.0",
+            "photo": "https://i.postimg.cc/DzwGYxkx/New-Project-11-EB06-F6-D.png",
+            "attack": 17000,
+            "health": 21000,
+            "value": 38000,
+            "desc": "💎 Titan Tvman 2.0\n\n🟡 Rarity: Mythic\n🗡️ Attack: 17000\n❤️ Health: 21000\n\n💠 Value: 38000 S.P"
+        },
+        {
+            "name": "Astro Carrier",
+            "photo": "https://i.postimg.cc/vTN2c47s/New-Project-11-60128-F3.png",
+            "attack": 18000,
+            "health": 23000,
+            "value": 40000,
+            "desc": "💎 Astro Carrier\n\n🟡 Rarity: Mythic\n🗡️ Attack: 18000\n❤️ Health: 23000\n\n💠 Value: 40000 S.P"
+        },
+        {
+            "name": "Giant Scientist Toilet Mech",
+            "photo": "https://i.postimg.cc/FRR8ySB5/New-Project-14-5324-A6-E.png",
+            "attack": 15250,
+            "health": 18750,
+            "value": 36000,
+            "desc": "💎 Mythic Card 11\n\n🟡 Rarity: Mythic\n🗡️ Attack: 18500\n❤️ Health: 23500\n\n💠 Value: 41000 S.P"
+        },
+        {
+            "name": "Executer",
+            "photo": "https://i.postimg.cc/NfMdLTJT/New-Project-14-F502025.png",
+            "attack": 13000,
+            "health": 17000,
+            "value": 20000,
+            "desc": "💎 Mythic Card 12\n\n🟡 Rarity: Mythic\n🗡️ Attack: 19000\n❤️ Health: 24000\n\n💠 Value: 42000 S.P"
+        },
+        {
+            "name": "Secret Agent",
+            "photo": "https://i.postimg.cc/CKmZZZ6y/New-Project-14-26-B1-FA7.png",
+            "attack": 18000,
+            "health": 23000,
+            "value": 40000,
+            "desc": "💎 Mythic Card 13\n\n🟡 Rarity: Mythic\n🗡️ Attack: 19500\n❤️ Health: 24500\n\n💠 Value: 43000 S.P"
+        },
+        {
+            "name": "Upgrade Watchman Of Doom",
+            "photo": "https://i.postimg.cc/XY2GqGzt/New-Project-49-8-A2-DD00.png",
+            "attack": 17150,
+            "health": 20950,
+            "value": 38000,
+            "desc": "💎 Mythic Card 14\n\n🟡 Rarity: Mythic\n🗡️ Attack: 20000\n❤️ Health: 25000\n\n💠 Value: 44000 S.P"
+        }
+    ],
+    "Ultimate": [
+        {
+            "name": "Best Duo",
+            "photo": "https://i.postimg.cc/gj5tz649/New-Project-11-BB5-E370.png",
+            "attack": 17250,
+            "health": 22150,
+            "value": 35000,
+            "gif": "https://i.postimg.cc/KYLKMW6W/GIF-20250517-083638-817.gif",
+            "desc": "👑 Best Duo\n\n🅱️ Rarity: Ultimate\n🗡️ Attack: 17250\n❤️ Health: 22150\n\n💠 Value: 35000 S.P"
+        }
+    ]
+}

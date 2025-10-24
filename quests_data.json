@@ -1,0 +1,31 @@
+{
+  "1330384300": {
+    "daily_cards": 6935,
+    "weekly_cards": 6935,
+    "daily_get_cards": true,
+    "daily_collect_epic": true,
+    "weekly_get_50_cards": true,
+    "weekly_collect_legend": true,
+    "achievement_first_card": true,
+    "achievement_card_collector": true,
+    "achievement_rich_player": true,
+    "weekly_craft_attempts": 2395,
+    "daily_win_battle": true
+  },
+  "7901866885": {
+    "daily_cards": 3,
+    "weekly_cards": 3
+  },
+  "876669726": {
+    "daily_cards": 6,
+    "weekly_cards": 6
+  },
+  "7031694249": {
+    "daily_cards": 65,
+    "weekly_cards": 65
+  },
+  "1806427116": {
+    "daily_cards": 56,
+    "weekly_cards": 56
+  }
+}

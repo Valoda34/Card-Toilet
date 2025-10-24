@@ -1,0 +1,60 @@
+{
+    "combine_cards": [
+        {
+            "name": "Best Duo",
+            "required_cards": ["Titan Cameraman 2.0", "Titan Speakerman 2.0"],
+            "required_sp": 500000,
+            "required_money": 1000000,
+            "attack": 30700,
+            "health": 40000,
+            "value": 45000,
+            "preview": "https://i.postimg.cc/2jdnhSk8/New-Project-9-3-ECC6-C6.png",
+            "result_animation": "https://iili.io/Kvsuxpt.gif"
+        },
+        {
+            "name": "Strongest Duo",
+            "required_cards": ["G-Toilet 5.0", "Astro Juggernaut"],
+            "required_sp": 600000,
+            "required_money": 1200000,
+            "attack": 34750,
+            "health": 45000,
+            "value": 60000,
+            "preview": "https://i.postimg.cc/jjdpX9fN/New-Project-9-E50-C906.png",
+            "result_animation": "https://i.postimg.cc/Bbsc5WLf/New-Project-10-3-A05801.png"
+        },
+        {
+            "name": "Prime Trio Titans",
+            "required_cards": ["Titan Cameraman 2.0", "Hyper Titan Speakerman", "Titan Tvman 2.0"],
+            "required_sp": 800000,
+            "required_money": 2350000,
+            "attack": 47750,
+            "health": 60250,
+            "value": 60000,
+            "preview": "https://i.postimg.cc/1RCfrhN0/New-Project-9-86-C1-FA2.png",
+            "result_animation": "https://i.postimg.cc/PxNktcrh/New-Project-10-8-AC96-D0.png"
+        },
+        {
+            "name": "Speaker Armada",
+            "required_cards": ["Executer", "Speaker Strider 3.0", "Large Speakerman 3.0", "Speakerwoman 3.0", "Speakerman 3.0 (Blade)", "Speakerman 3.0 (Hammer)"],
+            "required_sp": 750000,
+            "required_money": 2000000,
+            "attack": 18000,
+            "health": 23000,
+            "value": 40000,
+            "preview": "https://i.postimg.cc/8PfF8bM9/New-Project-9-5-B86-C4-B.png",
+            "result_animation": "https://i.postimg.cc/Njwj3vg2/New-Project-10-94-E9930.png"
+        },
+        {
+            "name": "Evil Duo",
+            "required_cards": ["G-Toilet 4.0", "Giant Scientist Toilet Mech"],
+            "required_sp": 450000,
+            "required_money": 900000,
+            "attack": 31750,
+            "health": 41000,
+            "value": 50000,
+            "preview": "https://i.postimg.cc/y8P3n8F8/New-Project-9-D2720-F6.png",
+            "result_animation": "https://i.postimg.cc/t4XY1GLQ/New-Project-10-C67-F7-BD.png"
+        }
+    ]
+}
+

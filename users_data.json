@@ -1,0 +1,29 @@
+{
+  "1330384300": {
+    "cards": {},
+    "total_sp": 0,
+    "money": 0,
+    "username": "",
+    "last_card_time": 0,
+    "cards_today": 3,
+    "arena_team": [],
+    "arena_cups": 0,
+    "battles_won": 0,
+    "battles_lost": 0,
+    "last_bonus_time": 0,
+    "completed_quests": [],
+    "duplicates": {
+      "Common": 0,
+      "Rare": 0,
+      "Epic": 0,
+      "Legend": 0,
+      "Mythic": 0
+    },
+    "shards": 0,
+    "craft_attempts": 0,
+    "last_arena_battle": 0,
+    "arena_battles_today": 0,
+    "last_arena_reset": 1760804890.3224492,
+    "used_promo_codes": []
+  }
+}
